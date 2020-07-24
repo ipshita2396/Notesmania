@@ -1,0 +1,27 @@
+form{
+	padding:30px;
+	border-width:50px;
+	background-color:rgba(255, 195, 0,0.6)  ;
+	width:400px;
+	position:absolute;
+	
+
+}
+body{
+	background:url(images/bg.jpg);
+	height:700px;
+	width:1350px;
+
+}
+.inner-wrapper {
+  display:table-cell;
+  vertical-align:middle;
+  padding-left:500px;
+}
+
+h5{
+	color:black;
+	text-decoration:underline;
+	
+}
+

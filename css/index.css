@@ -1,0 +1,37 @@
+
+.navbar-inverse{
+  background-color:#d64161; 
+  }
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+}.navbar-brand.brand{
+  color:black;
+  font-size:24px;
+
+}
+.form-control{
+	width:auto;
+}
+.btn{
+
+  align-items: center;
+}
+
+body{
+  background:-color:pink;
+  background-size:cover;
+  font-family: sans-serif;
+}
+h1{
+text-align: center;
+font-family: sans-serif;
+color: white;
+
+}
+.content{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-70%);
+
+}
